@@ -1,0 +1,19 @@
+h1{
+    padding: 5px;
+    margin: 5px;
+}
+form{
+    border: 5px solid #808080;
+    background-color: #CCC ; 
+    padding: 10px;
+    margin: 10px;
+
+}
+form input {
+    padding: 5px;
+    margin: 10px;
+background-color: aquamarine;
+font-weight: bold;
+font-size: large;
+display: block;
+}
